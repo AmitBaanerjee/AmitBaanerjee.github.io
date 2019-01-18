@@ -1,0 +1,29 @@
+h2{
+	margin-top:65px;
+	color:white;
+	text-align: center;
+}
+
+body,html{
+	height: 100%;
+	width:100%;
+	background-size: cover;
+	background-position: center;
+  	background-repeat: no-repeat;
+}
+	.btn{
+		background-color: rgb(216,81,32);
+		border-radius: 300px;
+		border:none;
+	}
+.btn:hover{
+		background-color: rgb(216,81,32);
+
+}
+.col-lg-12{
+	margin-top: 140px;
+}
+.col-lg-8{
+	margin-top: 169px;
+}
+
